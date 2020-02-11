@@ -359,14 +359,14 @@
     justify-content: center;
     width: 100%;
     height: 100%;
-    background-color: #e7515a;
+    background-color: #009688;
     color: #ffe1e2;
 }
 .widget-table-one .transactions-list .t-item .t-icon .icon {
     position: relative;
     display: inline-block;
     padding: 10px;
-    background-color: #e2a03f;
+    background-color: #e7515a;
     border-radius: 50%;
 }
 .widget-table-one .transactions-list .t-item .t-icon .icon svg {
@@ -411,7 +411,7 @@
     color: #009688;
 }
 .widget-table-one .transactions-list .t-item .t-rate.rate-inc svg {
-    color: #009688;
+    color: #fff8f8;
 }
 .widget-table-one .transactions-list .t-item .t-rate.rate-dec p {
     color: #e7515a;
@@ -420,7 +420,7 @@
     color: #fff8f8;
 }
 /*เพิ่มเอง*/
-.widget-table-one .transactions-list .t-item .t-rate.rate-dec .icons svg {
+.widget-table-one .transactions-list .t-item .icons svg {
     position:relative;
     right: -55px;
 }
